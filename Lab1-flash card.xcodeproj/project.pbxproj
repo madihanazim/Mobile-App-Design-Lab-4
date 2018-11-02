@@ -14,6 +14,7 @@
 		EB86862A21728FAA002E6A8B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = EB86862821728FAA002E6A8B /* LaunchScreen.storyboard */; };
 		EB86863521728FAA002E6A8B /* Lab1_flash_cardTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB86863421728FAA002E6A8B /* Lab1_flash_cardTests.swift */; };
 		EB86864021728FAA002E6A8B /* Lab1_flash_cardUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB86863F21728FAA002E6A8B /* Lab1_flash_cardUITests.swift */; };
+		EBA99F2F21852365004B6D95 /* CreationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBA99F2E21852365004B6D95 /* CreationViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		EB86863B21728FAA002E6A8B /* Lab1-flash cardUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Lab1-flash cardUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB86863F21728FAA002E6A8B /* Lab1_flash_cardUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab1_flash_cardUITests.swift; sourceTree = "<group>"; };
 		EB86864121728FAA002E6A8B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EBA99F2E21852365004B6D95 /* CreationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreationViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 		EB86861321728F9E002E6A8B = {
 			isa = PBXGroup;
 			children = (
+				EBA99F2E21852365004B6D95 /* CreationViewController.swift */,
 				EB86861E21728F9E002E6A8B /* Lab1-flash card */,
 				EB86863321728FAA002E6A8B /* Lab1-flash cardTests */,
 				EB86863E21728FAA002E6A8B /* Lab1-flash cardUITests */,
@@ -258,6 +261,7 @@
 			files = (
 				EB86862221728F9E002E6A8B /* ViewController.swift in Sources */,
 				EB86862021728F9E002E6A8B /* AppDelegate.swift in Sources */,
+				EBA99F2F21852365004B6D95 /* CreationViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
