@@ -5,21 +5,21 @@ http://recordit.co/E7DtaseTOE
 
 
 Show creation screen
- Adding a "+" button 
- Creating a new screen on your storyboard 
- Adding text fields 
- Text field placeholders
+ a-Adding a "+" button 
+ b-Creating a new screen on your storyboard 
+ c-Adding text fields 
+ d-Text field placeholders
  
 Dismiss creation screen
- Adding a Navigation Bar
- Adding the cancel button to the navigation bar
- Creating a new Swift class
- Using our custom Swift class
- Writing the code to dismiss 
+ a-Adding a Navigation Bar
+ b-Adding the cancel button to the navigation bar
+ c-Creating a new Swift class
+ d-Using our custom Swift class
+ e-Writing the code to dismiss 
 
 Passing data
- Creating a custom function
- Updating our flashcard
- Adding a "done" button
- Pass data and dismiss
- Making it not crash
+ a-Creating a custom function
+ b-Updating our flashcard
+ c-Adding a "done" button
+ e-Pass data and dismiss
+ f-Making it not crash
